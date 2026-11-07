@@ -36,7 +36,7 @@ print("Memory test, turn 1: I plan to visit on Sunday with two friends. Do you s
 print("Memory test, turn 2: Will you be open on the day I mentioned?")
 input("Predict first: what will the model say to turn 2? Write it down, then press Enter only.\n")
 turn = 0   # counts the turns, so that the script can speak after the last test turn
-
+list 
 # NEW in stage 3
 # 3. One turn per loop: take a typed question; the word quit ends the loop.
 while True:
